@@ -1,0 +1,123 @@
+@import "tailwindcss";
+
+:root {
+  --background: #101924;
+  --surface: #192230;
+  --accent: #d45048;
+  --accent-soft: #e07b74;
+  --foreground: #f5f2ef;
+  --muted: #8a96a4;
+  --on-accent: #101924;
+  --card-bg: #192230;
+  --border: color-mix(in srgb, var(--accent) 30%, transparent);
+  --heading-font-family: var(--font-josefin);
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-surface: var(--surface);
+  --color-accent: var(--accent);
+  --color-accent-soft: var(--accent-soft);
+  --color-muted: var(--muted);
+  --color-on-accent: var(--on-accent);
+  --color-card: var(--card-bg);
+  --color-border: var(--border);
+  --font-sans: var(--font-jakarta);
+  --font-heading: var(--heading-font-family);
+}
+
+html {
+  scroll-behavior: smooth;
+  overflow-x: hidden;
+}
+
+#o-nas,
+#ankieta,
+#newsletter {
+  scroll-margin-top: 5rem;
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-sans), system-ui, sans-serif;
+}
+
+h1,
+h2,
+h3,
+.font-heading {
+  font-family: var(--font-heading), var(--font-sans), system-ui, sans-serif;
+}
+
+.atmosphere {
+  background-image:
+    radial-gradient(
+      42% 28% at 6% 10%,
+      color-mix(in srgb, var(--accent) 18%, transparent) 0%,
+      transparent 72%
+    ),
+    radial-gradient(
+      22% 40% at 94% 6%,
+      color-mix(in srgb, var(--accent) 11%, transparent) 0%,
+      transparent 68%
+    ),
+    radial-gradient(
+      18% 14% at 38% 22%,
+      color-mix(in srgb, var(--accent) 9%, transparent) 0%,
+      transparent 70%
+    ),
+    radial-gradient(
+      26% 18% at 78% 36%,
+      color-mix(in srgb, var(--accent) 8%, transparent) 0%,
+      transparent 74%
+    ),
+    radial-gradient(
+      16% 32% at 4% 58%,
+      color-mix(in srgb, var(--accent) 10%, transparent) 0%,
+      transparent 70%
+    ),
+    radial-gradient(
+      34% 16% at 92% 68%,
+      color-mix(in srgb, var(--accent) 12%, transparent) 0%,
+      transparent 72%
+    ),
+    radial-gradient(
+      20% 12% at 18% 88%,
+      color-mix(in srgb, var(--accent) 8%, transparent) 0%,
+      transparent 68%
+    ),
+    radial-gradient(
+      14% 20% at 62% 92%,
+      color-mix(in srgb, var(--accent) 7%, transparent) 0%,
+      transparent 70%
+    );
+}
+
+.atmosphere-shift {
+  transform: rotate(-17deg) scale(1.2);
+  transform-origin: 40% 55%;
+  background-image:
+    radial-gradient(
+      28% 12% at 24% 48%,
+      color-mix(in srgb, var(--accent) 10%, transparent) 0%,
+      transparent 75%
+    ),
+    radial-gradient(
+      12% 26% at 71% 31%,
+      color-mix(in srgb, var(--accent) 8%, transparent) 0%,
+      transparent 72%
+    ),
+    radial-gradient(
+      20% 10% at 86% 82%,
+      color-mix(in srgb, var(--accent) 9%, transparent) 0%,
+      transparent 70%
+    );
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+}

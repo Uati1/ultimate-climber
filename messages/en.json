@@ -1,0 +1,85 @@
+{
+  "nav": {
+    "fillSurvey": "Fill the survey",
+    "about": "More about us"
+  },
+  "hero": {
+    "badge": "+1 premium month for the survey",
+    "headline1": "Fill the survey.",
+    "headline2": "Get one extra premium month.",
+    "mission1": "We're building an app that supports your training. You'll set a plan and log sessions, rest days and niggles. Unsure whether to add load, or something started pulling in a finger and you're wondering if you should back off? Sloper, the AI assistant, will suggest what to do — and when it's better to check in with a specialist.",
+    "primaryCta": "Fill the survey",
+    "secondaryCta": "More about us",
+    "scroll": "Scroll"
+  },
+  "benefits": {
+    "label": "Benefits",
+    "title": "What we do",
+    "items": {
+      "plans": {
+        "title": "Simple plans",
+        "description": "You'll build a climbing plan and supplemental training. If you don't have a plan yet, we'll make one for you."
+      },
+      "load": {
+        "title": "Load under control",
+        "description": "See what the loads were. See your progress. Small niggles don't disappear into the chat."
+      },
+      "share": {
+        "title": "Coach, physio and friends in the loop",
+        "description": "Share selected logs with the people who help you train. You choose who sees what."
+      },
+      "tests": {
+        "title": "Tests that set the pace",
+        "description": "Short tests so you can fit load accurately and move forward faster."
+      }
+    }
+  },
+  "surveyCta": {
+    "label": "SURVEY",
+    "title": "2 minutes. +1 premium month.",
+    "description": "Tell us how you train and how we can help. Completing the form gets you an extra month of premium.",
+    "cta": "Fill the survey"
+  },
+  "newsletter": {
+    "earlyAccess": "EARLY ACCESS",
+    "title": "Join as the",
+    "titleHighlight": "first.",
+    "titleSuffix": "Build the product with us.",
+    "description": "Ultimate Climber is in development. Leave your email — we'll share launch, beta and how your feedback shapes the product.",
+    "emailPlaceholder": "your@email.com",
+    "joinButton": "Join",
+    "joining": "Joining...",
+    "noSpam": "No spam. Just product updates and early access. Unsubscribe anytime.",
+    "expand": "Expand",
+    "collapse": "Collapse",
+    "checkboxRegulaminSummary": "I confirm that I have read and accept the <regulamin>terms</regulamin> and <polityka>privacy policy</polityka> of the website.",
+    "checkboxMarketingSummary": "I consent to receiving commercial information and direct marketing at the provided email address."
+  },
+  "footer": {
+    "privacyPolicy": "Privacy Policy",
+    "terms": "Terms and Conditions",
+    "unsubscribe": "Click to unsubscribe"
+  },
+  "unsubscribe": {
+    "error": "Failed to unsubscribe.",
+    "title": "Unsubscribe",
+    "description": "Enter your email address to unsubscribe from Ultimate Climber updates.",
+    "backToHome": "Back to Home",
+    "emailLabel": "Email address",
+    "processing": "Processing...",
+    "success": "Unsubscribed successfully",
+    "redirecting": "Redirecting you back to home in 3 seconds...",
+    "returnHome": "Return to Home"
+  },
+  "cookieBanner": {
+    "message": "We inform that in order to provide services available on our website, optimize its content and adapt the website to your individual needs, we use information stored using cookies on users' end devices. Cookies can be controlled using your web browser settings. Further use of the website, without changing your web browser settings, means that the user accepts the use of cookies. More information is contained in the <link>privacy policy</link>.",
+    "accept": "I understand and accept"
+  },
+  "toast": {
+    "emailRequired": "Please enter your email.",
+    "gdprRequired": "Please accept both privacy policy and marketing consent to continue.",
+    "success": "You're on the list! We'll be in touch soon.",
+    "error": "Failed to join waitlist.",
+    "unsubscribeError": "Failed to unsubscribe."
+  }
+}

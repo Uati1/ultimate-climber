@@ -1,0 +1,85 @@
+{
+  "nav": {
+    "fillSurvey": "Wypełnij ankietę",
+    "about": "Więcej o nas"
+  },
+  "hero": {
+    "badge": "+1 miesiąc premium za ankietę",
+    "headline1": "Wypełnij ankietę.",
+    "headline2": "Odbierz dodatkowy miesiąc konta premium.",
+    "mission1": "Budujemy aplikację wspierającą Twój trening. Ułożysz plan, zapiszesz sesje, resty i przeciążenia. Wahasz się, czy zwiększyć obciążenie, albo coś zaczęło Cię ciągnąć w palcu i zastanawiasz się czy odpuścić? Sloper, asystent AI, podpowie, co robić i kiedy lepiej skonsultować to ze specjalistą.",
+    "primaryCta": "Wypełnij ankietę",
+    "secondaryCta": "Więcej o nas",
+    "scroll": "Przewiń"
+  },
+  "benefits": {
+    "label": "Korzyści",
+    "title": "Co robimy",
+    "items": {
+      "plans": {
+        "title": "Proste plany",
+        "description": "Ułożysz plan wspinaczkowy i treningu uzupełniającego. Jeśli nie masz swojego planu, stworzymy go dla Cibie!"
+      },
+      "load": {
+        "title": "Obciążenie pod kontrolą",
+        "description": "Widzisz, jakie były obciążenia. Wizdzisz swój progres. Drobne przeciążenia i nie giną w czacie."
+      },
+      "share": {
+        "title": "Trener, fizjo i znajomi na bieżąco",
+        "description": "Udostępniasz wybrane logi osobom, które pomagają Ci w treningu. Ty decydujesz, kto co widzi."
+      },
+      "tests": {
+        "title": "Testy pod progres",
+        "description": "Krótkie testy, żeby trafnie dobrać obciążenie i iść do przodu szybciej."
+      }
+    }
+  },
+  "surveyCta": {
+    "label": "ANKIETA",
+    "title": "2 minuty. +1 miesiąc premium.",
+    "description": "Powiedz nam, jak trenujesz i jak możemy Ci pomóc. Za wypełnienie formularza dostajesz dodatkowy miesiąc konta premium.",
+    "cta": "Wypełnij ankietę"
+  },
+  "newsletter": {
+    "earlyAccess": "WCZESNY DOSTĘP",
+    "title": "Dołącz",
+    "titleHighlight": "pierwszy.",
+    "titleSuffix": "Rozwijaj produkt z nami.",
+    "description": "Ultimate Climber dopiero powstaje. Zostaw maila, a damy znać kiedy ruszamy i tym, jak Twoja opinia zmienia produkt.",
+    "emailPlaceholder": "twoj@email.com",
+    "joinButton": "Dołącz",
+    "joining": "Zapisuję...",
+    "noSpam": "Bez spamu. Tylko aktualizacje produktu i early access. Wypisz się w dowolnym momencie.",
+    "expand": "Rozwiń",
+    "collapse": "Zwiń",
+    "checkboxRegulaminSummary": "Potwierdzam, że zapoznałem się i akceptuję <regulamin>regulamin</regulamin> oraz <polityka>politykę prywatności strony</polityka>.",
+    "checkboxMarketingSummary": "Wyrażam zgodę na otrzymywanie informacji handlowej i marketingu bezpośredniego na podany adres e-mail."
+  },
+  "footer": {
+    "privacyPolicy": "Polityka prywatności",
+    "terms": "Regulamin",
+    "unsubscribe": "Kliknij, aby wypisać się"
+  },
+  "unsubscribe": {
+    "error": "Nie udało się wypisać.",
+    "title": "Wypisz się",
+    "description": "Wprowadź swój adres e-mail, aby wypisać się z aktualizacji Ultimate Climber.",
+    "backToHome": "Powrót do strony głównej",
+    "emailLabel": "Adres e-mail",
+    "processing": "Przetwarzanie...",
+    "success": "Pomyślnie wypisano",
+    "redirecting": "Przekierowanie na stronę główną za 3 sekundy...",
+    "returnHome": "Powrót do strony głównej"
+  },
+  "cookieBanner": {
+    "message": "Informujemy, iż w celu realizacji usług dostępnych na naszej stronie, optymalizacji jej treści oraz dostosowania strony do Państwa indywidualnych potrzeb korzystamy z informacji zapisanych za pomocą plików cookies na urządzeniach końcowych użytkowników. Pliki cookies można kontrolować za pomocą ustawień swojej przeglądarki internetowej. Dalsze korzystanie ze strony internetowej, bez zmiany ustawień przeglądarki internetowej oznacza, iż użytkownik akceptuje stosowanie plików cookies. Więcej informacji zawartych jest w <link>polityce prywatności</link> strony.",
+    "accept": "Rozumiem i akceptuję"
+  },
+  "toast": {
+    "emailRequired": "Wprowadź swój e-mail.",
+    "gdprRequired": "Zaakceptuj obie zgody, aby kontynuować.",
+    "success": "Jesteś na liście! Wkrótce się odezwiemy.",
+    "error": "Nie udało się dołączyć do listy.",
+    "unsubscribeError": "Nie udało się wypisać."
+  }
+}
