@@ -6,8 +6,8 @@
   "hero": {
     "badge": "+1 premium month for the survey",
     "headline1": "Fill the survey.",
-    "headline2": "Get one extra premium month.",
-    "mission1": "We're building an app that supports your training. You'll set a plan and log sessions, rest days and niggles. Unsure whether to add load, or something started pulling in a finger and you're wondering if you should back off? Sloper, the AI assistant, will suggest what to do — and when it's better to check in with a specialist.",
+    "headline2": "Get extra month of premium account.",
+    "mission1": "We're building an app that supports your training. You'll set a plan and log sessions, rest days and niggles. Unsure whether to add load, or something started pulling in a finger and you're wondering if you should back off? Sloper, the AI assistant, will suggest what to do and when it's better to check in with a specialist.",
     "primaryCta": "Fill the survey",
     "secondaryCta": "More about us",
     "scroll": "Scroll"
@@ -45,7 +45,7 @@
     "title": "Join as the",
     "titleHighlight": "first.",
     "titleSuffix": "Build the product with us.",
-    "description": "Ultimate Climber is in development. Leave your email — we'll share launch, beta and how your feedback shapes the product.",
+    "description": "Ultimate Climber is in development. Leave your email and we'll share launch, beta and how your feedback shapes the product.",
     "emailPlaceholder": "your@email.com",
     "joinButton": "Join",
     "joining": "Joining...",

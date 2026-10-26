@@ -7,7 +7,7 @@
     "badge": "+1 miesiąc premium za ankietę",
     "headline1": "Wypełnij ankietę.",
     "headline2": "Odbierz dodatkowy miesiąc konta premium.",
-    "mission1": "Budujemy aplikację wspierającą Twój trening. Ułożysz plan, zapiszesz sesje, resty i przeciążenia. Wahasz się, czy zwiększyć obciążenie, albo coś zaczęło Cię ciągnąć w palcu i zastanawiasz się czy odpuścić? Sloper, asystent AI, podpowie, co robić i kiedy lepiej skonsultować to ze specjalistą.",
+    "mission1": "Budujemy aplikację wspierającą Twój trening. Ułożysz plan, zapiszesz sesje, resty i przeciążenia. Wahasz się, czy zwiększyć obciążenie, albo coś zaczęło Cię ciągnąć w palcu i zastanawiasz się, czy odpuścić? Sloper, asystent AI, podpowie, co robić i kiedy lepiej skonsultować to ze specjalistą.",
     "primaryCta": "Wypełnij ankietę",
     "secondaryCta": "Więcej o nas",
     "scroll": "Przewiń"
@@ -18,11 +18,11 @@
     "items": {
       "plans": {
         "title": "Proste plany",
-        "description": "Ułożysz plan wspinaczkowy i treningu uzupełniającego. Jeśli nie masz swojego planu, stworzymy go dla Cibie!"
+        "description": "Ułożysz plan wspinaczkowy i trening uzupełniający. Jeśli nie masz swojego planu, stworzymy go dla Ciebie!"
       },
       "load": {
         "title": "Obciążenie pod kontrolą",
-        "description": "Widzisz, jakie były obciążenia. Wizdzisz swój progres. Drobne przeciążenia i nie giną w czacie."
+        "description": "Widzisz, jakie były obciążenia. Widzisz swój progres. Drobne przeciążenia nie giną w czacie."
       },
       "share": {
         "title": "Trener, fizjo i znajomi na bieżąco",
@@ -45,7 +45,7 @@
     "title": "Dołącz",
     "titleHighlight": "pierwszy.",
     "titleSuffix": "Rozwijaj produkt z nami.",
-    "description": "Ultimate Climber dopiero powstaje. Zostaw maila, a damy znać kiedy ruszamy i tym, jak Twoja opinia zmienia produkt.",
+    "description": "Ultimate Climber dopiero powstaje. Zostaw maila — damy znać, kiedy ruszamy i jak Twoja opinia zmienia produkt.",
     "emailPlaceholder": "twoj@email.com",
     "joinButton": "Dołącz",
     "joining": "Zapisuję...",
@@ -53,7 +53,7 @@
     "expand": "Rozwiń",
     "collapse": "Zwiń",
     "checkboxRegulaminSummary": "Potwierdzam, że zapoznałem się i akceptuję <regulamin>regulamin</regulamin> oraz <polityka>politykę prywatności strony</polityka>.",
-    "checkboxMarketingSummary": "Wyrażam zgodę na otrzymywanie informacji handlowej i marketingu bezpośredniego na podany adres e-mail."
+    "checkboxMarketingSummary": "Wyrażam zgodę na otrzymywanie informacji handlowych i marketingu bezpośredniego na podany adres e-mail."
   },
   "footer": {
     "privacyPolicy": "Polityka prywatności",

@@ -5,8 +5,8 @@ import { useLocale } from "next-intl";
 import { useRouter, usePathname } from "@/i18n/navigation";
 
 const LANGUAGES = [
-  { code: "pl", flag: "🇵🇱", name: "Polski" },
-  { code: "en", flag: "🇬🇧", name: "English" },
+  { code: "pl", flag: "🇵🇱", name: "Polski", short: "PL" },
+  { code: "en", flag: "🇬🇧", name: "English", short: "EN" },
 ] as const;
 
 export default function LanguageSwitcher() {
@@ -45,20 +45,21 @@ export default function LanguageSwitcher() {
       </button>
 
       {isOpen && (
-        <div className="absolute right-0 top-full mt-1 py-1 rounded-lg border border-foreground/10 bg-surface shadow-xl z-50">
+        <div className="absolute right-0 top-full mt-1 py-1 rounded-lg border border-foreground/10 bg-surface shadow-xl z-50 min-w-[5.5rem]">
           {LANGUAGES.map((lang) => (
             <button
               key={lang.code}
               type="button"
               onClick={() => handleSelect(lang.code)}
               aria-label={lang.name}
-              className={`w-9 h-9 flex items-center justify-center text-lg leading-none transition-colors ${
+              className={`w-full h-9 px-3 flex items-center gap-2 text-sm font-medium transition-colors ${
                 locale === lang.code
-                  ? "bg-accent/20"
-                  : "hover:bg-background"
+                  ? "bg-accent/20 text-accent"
+                  : "text-muted hover:bg-background hover:text-foreground"
               }`}
             >
-              {lang.flag}
+              <span className="text-lg leading-none">{lang.flag}</span>
+              <span>{lang.short}</span>
             </button>
           ))}
         </div>
