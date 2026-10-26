@@ -15,9 +15,9 @@ export async function POST(request: NextRequest) {
       return NextResponse.json({ error: "Email service is not configured" }, { status: 500 });
     }
 
-    const notifyTo = process.env.NOTIFY_EMAIL || "hello@ultimateclimber.com";
+    const notifyTo = process.env.NOTIFY_EMAIL || "hello@info.ultimateclimber.com";
     const from =
-      process.env.RESEND_FROM || "Ultimate Climber <notifications@ultimateclimber.com>";
+      process.env.RESEND_FROM || "Ultimate Climber <hello@info.ultimateclimber.com>";
 
     const resend = new Resend(apiKey);
     const { data, error } = await resend.emails.send({
