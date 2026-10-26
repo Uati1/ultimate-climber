@@ -16,7 +16,7 @@ const josefin = Josefin_Sans({
 export const metadata: Metadata = {
   title: "Ultimate Climber · Plany i trening wspinaczkowy",
   description:
-    "Aplikacja do planów wspinaczkowych, logów i obciążenia. Wypełnij ankietę i zgarnij dodatkowy miesiąc premium.",
+    "Budujemy aplikację wspierającą Twój trening. Ułożysz plan, zapiszesz sesje, resty i przeciążenia. Wahasz się, czy zwiększyć obciążenie, albo coś zaczęło Cię ciągnąć w palcu i zastanawiasz się, czy odpuścić? Sloper, asystent AI, podpowie, co robić i kiedy lepiej skonsultować to ze specjalistą.",
   icons: {
     icon: [{ url: "/assets/alt-logo.png", type: "image/png" }],
     apple: [{ url: "/assets/alt-logo.png", type: "image/png" }],
