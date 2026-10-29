@@ -4,9 +4,9 @@
     "about": "Więcej o nas"
   },
   "hero": {
-    "badge": "+1 miesiąc premium za ankietę",
-    "headline1": "Wypełnij ankietę.",
-    "headline2": "Odbierz dodatkowy miesiąc konta premium.",
+    "badge": "Kształtuj trening z nami",
+    "headline1": "Kształtuj przyszłość",
+    "headline2": "treningu wspinaczkowego.",
     "mission1": "Budujemy aplikację wspierającą Twój trening. Ułożysz plan, zapiszesz sesje, resty i przeciążenia. Wahasz się, czy zwiększyć obciążenie, albo coś zaczęło Cię ciągnąć w palcu i zastanawiasz się, czy odpuścić? Sloper, asystent AI, podpowie, co robić i kiedy lepiej skonsultować to ze specjalistą.",
     "primaryCta": "Wypełnij ankietę",
     "secondaryCta": "Więcej o nas",
@@ -36,8 +36,8 @@
   },
   "surveyCta": {
     "label": "ANKIETA",
-    "title": "2 minuty. +1 miesiąc premium.",
-    "description": "Powiedz nam, jak trenujesz i jak możemy Ci pomóc. Za wypełnienie formularza dostajesz dodatkowy miesiąc konta premium.",
+    "title": "11 pytań. 3 minuty.",
+    "description": "Zmieniaj trening wspinaczkowy z nami.",
     "cta": "Wypełnij ankietę"
   },
   "newsletter": {
@@ -45,7 +45,7 @@
     "title": "Dołącz",
     "titleHighlight": "pierwszy.",
     "titleSuffix": "Rozwijaj produkt z nami.",
-    "description": "Ultimate Climber dopiero powstaje. Zostaw maila — damy znać, kiedy ruszamy i jak Twoja opinia zmienia produkt.",
+    "description": "Ultimate Climber dopiero powstaje. Zostaw maila, damy znać, kiedy ruszamy i jak Twoja opinia zmienia produkt.",
     "emailPlaceholder": "twoj@email.com",
     "joinButton": "Dołącz",
     "joining": "Zapisuję...",

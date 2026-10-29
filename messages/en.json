@@ -4,9 +4,9 @@
     "about": "More about us"
   },
   "hero": {
-    "badge": "+1 premium month for the survey",
-    "headline1": "Fill the survey.",
-    "headline2": "Get extra month of premium account.",
+    "badge": "Shape training with us",
+    "headline1": "Shape the future",
+    "headline2": "of climbing training.",
     "mission1": "We're building an app that supports your training. You'll set a plan and log sessions, rest days and niggles. Unsure whether to add load, or something started pulling in a finger and you're wondering if you should back off? Sloper, the AI assistant, will suggest what to do and when it's better to check in with a specialist.",
     "primaryCta": "Fill the survey",
     "secondaryCta": "More about us",
@@ -36,8 +36,8 @@
   },
   "surveyCta": {
     "label": "SURVEY",
-    "title": "2 minutes. +1 premium month.",
-    "description": "Tell us how you train and how we can help. Completing the form gets you an extra month of premium.",
+    "title": "11 questions. 3 minutes.",
+    "description": "Change climbing training with us.",
     "cta": "Fill the survey"
   },
   "newsletter": {
